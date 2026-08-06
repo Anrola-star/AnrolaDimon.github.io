@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://anrola-star.github.io/2026/08/01/git-usage/</loc>
+    <loc>https://anrola-star.github.io/2026/08/06/git-usage2/</loc>
     
     <lastmod>2026-08-06</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://anrola-star.github.io/2026/08/06/flutter-debug-2/</loc>
+    <loc>https://anrola-star.github.io/2026/08/01/git-usage/</loc>
     
     <lastmod>2026-08-06</lastmod>
     
@@ -74,14 +74,7 @@
 
   
   <url>
-    <loc>https://anrola-star.github.io/tags/flutter/</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://anrola-star.github.io/tags/debug/</loc>
+    <loc>https://anrola-star.github.io/tags/Github/</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -95,13 +88,6 @@
   </url>
   
   <url>
-    <loc>https://anrola-star.github.io/tags/Github/</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://anrola-star.github.io/tags/Redefine/</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -109,7 +95,21 @@
   </url>
   
   <url>
+    <loc>https://anrola-star.github.io/tags/flutter/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://anrola-star.github.io/tags/Android/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://anrola-star.github.io/tags/debug/</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
